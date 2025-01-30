@@ -40,7 +40,7 @@ class Program
                     return;
                 default:
                     Console.Clear();
-                    Console.WriteLine("Invalid. Try again");
+                    Console.WriteLine("Invalid. Please try again");
                     Console.ReadLine();
                     break;
             }
