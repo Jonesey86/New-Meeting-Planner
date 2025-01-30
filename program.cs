@@ -14,8 +14,8 @@ class Program
         while (true)
         {
             Console.WriteLine("Meeting planner");
-            Console.WriteLine("1.Display meetings");
-            Console.WriteLine("2.Add new meetings");
+            Console.WriteLine("1.Display meeting's");
+            Console.WriteLine("2.Add new meeting's");
             Console.WriteLine("3.Search for participant");
             Console.WriteLine("4.Exit");
             Console.WriteLine("Choose an option: ");
