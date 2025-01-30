@@ -12,7 +12,7 @@ public class MeetingController
     public void AddMeeting(Meeting meeting)
     {
         _meetings.Add(meeting);
-        Console.WriteLine("Meeting added");
+        Console.WriteLine("Meeting added to planner");
     }
 
     public List<Meeting> GetAllMeetings()
