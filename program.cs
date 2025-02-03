@@ -15,8 +15,8 @@ class Program
             Console.WriteLine("Meeting planner");
             Console.WriteLine("1.Display meetings");
             Console.WriteLine("2.Add new meetings");
-            Console.WriteLine("3.Search for participant");
-            Console.WriteLine("4.Exit");
+            Console.WriteLine("3.Search for participant's");
+            Console.WriteLine("4.Exit Planner");
             Console.WriteLine("Choose an option: ");
             string option = Console.ReadLine()?.Trim() ?? "1";
 
