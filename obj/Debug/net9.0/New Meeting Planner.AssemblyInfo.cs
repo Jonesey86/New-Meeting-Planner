@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("New Meeting Planner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d590afbbed7842891075be4e734bc1d2e3b4fde9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f382814497e3fefc6d7106d252d72b6325bceeb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("New Meeting Planner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("New Meeting Planner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

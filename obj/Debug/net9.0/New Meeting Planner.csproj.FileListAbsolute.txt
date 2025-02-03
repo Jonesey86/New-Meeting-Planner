@@ -1,0 +1,5 @@
+C:\Users\ianro\Desktop\New Meeting Planner\obj\Debug\net9.0\New Meeting Planner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\New Meeting Planner\obj\Debug\net9.0\New Meeting Planner.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\New Meeting Planner\obj\Debug\net9.0\New Meeting Planner.AssemblyInfo.cs
+C:\Users\ianro\Desktop\New Meeting Planner\obj\Debug\net9.0\New Meeting Planner.csproj.CoreCompileInputs.cache
+C:\Users\ianro\Desktop\New Meeting Planner\obj\Debug\net9.0\New Meeting Planner.sourcelink.json
