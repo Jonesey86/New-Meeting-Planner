@@ -8,7 +8,7 @@ class Program
     static void Main(string[] args)
     {
         var controller = new MeetingController();
-        var view = new MeetingView(controller);
+        var view = new Meetingview(controller);
 
         while (true)
         {
@@ -39,7 +39,7 @@ class Program
                     return;
                 default:
                     Console.Clear();
-                    Console.WriteLine("Invalid. Try again");
+                    Console.WriteLine("Invalid. Please try again");
                     Console.ReadLine();
                     break;
             }
